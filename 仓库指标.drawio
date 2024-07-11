@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T07:20:43.997Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YHIh5F9MZ4GEdn_uzA5K" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T07:22:14.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9ogyIrcU6rgyt8fFdINf" version="24.6.4" type="github">
   <diagram name="第 1 页" id="ORJa67HRwYDsLvUHYGUF">
-    <mxGraphModel dx="1011" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,12 @@
         </mxCell>
         <mxCell id="lbF-_C_02NjoZFQDFj1T-30" value="库存周转率&lt;div&gt;库存持有成本&lt;/div&gt;&lt;div&gt;空间利用&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lbF-_C_02NjoZFQDFj1T-32" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#424242;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lbF-_C_02NjoZFQDFj1T-33" value="库存准确率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
