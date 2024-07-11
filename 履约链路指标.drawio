@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T07:08:04.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9BzmMr48eUFzyJjgoV5d" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T07:08:44.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gDNwpRzp353hkIVtWWaa" version="24.6.4" type="github">
   <diagram name="第 1 页" id="zeDQYPmnItenapbLxEYK">
     <mxGraphModel dx="616" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cfKoiOyQj-taZWhqwXhv-1" value="客户" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="cfKoiOyQj-taZWhqwXhv-1" value="客户" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfKoiOyQj-taZWhqwXhv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cfKoiOyQj-taZWhqwXhv-2" target="cfKoiOyQj-taZWhqwXhv-3">
@@ -23,10 +23,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cfKoiOyQj-taZWhqwXhv-2" value="前仓" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="cfKoiOyQj-taZWhqwXhv-2" value="前仓" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="275" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cfKoiOyQj-taZWhqwXhv-3" value="客户" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="cfKoiOyQj-taZWhqwXhv-3" value="客户" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="470" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfKoiOyQj-taZWhqwXhv-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" vertex="1" parent="1">
