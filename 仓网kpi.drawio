@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" modified="2024-07-11T06:34:27.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jL42gE1_dcICUt29CEQ_" version="24.6.4" type="github">
+  <diagram name="第 1 页" id="tRfBST6jrVUNpwd-X4Iy">
+    <mxGraphModel dx="908" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q0zz0X0sGT8H5f3NRW_U-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="220" y="320" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dD_eDxQh-TN9M1a51W07-1" target="dD_eDxQh-TN9M1a51W07-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-8" value="补货" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dD_eDxQh-TN9M1a51W07-6">
+          <mxGeometry x="-0.1077" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-1" value="供应商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dD_eDxQh-TN9M1a51W07-2" target="dD_eDxQh-TN9M1a51W07-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-9" value="分拨" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dD_eDxQh-TN9M1a51W07-7">
+          <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-2" value="仓库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-3" value="前仓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-5" value="&lt;div data-lake_diagram_content_editor_data=&quot;true&quot;&gt;供应商配送耗时&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;送货准时率&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dD_eDxQh-TN9M1a51W07-10" value="&lt;div data-lake_diagram_content_editor_data=&quot;true&quot;&gt;配送耗时&lt;div&gt;送货准时率&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
